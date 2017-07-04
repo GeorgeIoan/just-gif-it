@@ -38,6 +38,8 @@ import java.lang.invoke.MethodHandles;
             //TODO
         }
 
+        System.out.println("Small changes");
+
         LOG.info("Saved file to {}", videoFile.getAbsolutePath());
         return "";
     }
