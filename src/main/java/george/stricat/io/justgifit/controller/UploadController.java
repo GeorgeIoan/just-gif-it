@@ -38,7 +38,7 @@ import java.lang.invoke.MethodHandles;
             //TODO
         }
 
-        System.out.println("Small changes 2");
+        System.out.println("Small changes 3");
 
         LOG.info("Saved file to {}", videoFile.getAbsolutePath());
         return "";
